@@ -1,0 +1,69 @@
+{
+  "title":"相关推荐",
+  "data":[
+    {
+      "image_url": "https://i8.mifile.cn/b2c-mimall-media/ddc90e3306b628da32b7addc8a2ad62c.jpg",
+      "image_url_webp": "https://i8.mifile.cn/b2c-mimall-media/ddc90e3306b628da32b7addc8a2ad62c.jpg",
+      "market_price": "49",
+      "name": "MIX 3 保护壳",
+      "price": "12.9",
+      "product_id": 9007
+    },
+    {
+      "image_url": "https://i8.mifile.cn/b2c-mimall-media/7bf02cdd5093143fb203bad95b85af4a.jpg",
+      "image_url_webp": "https://i8.mifile.cn/b2c-mimall-media/7bf02cdd5093143fb203bad95b85af4a.jpg",
+      "market_price": "19",
+      "name": "MIX 3 贴膜",
+      "price": "5.9",
+      "product_id": 9008
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d39a4ad7456ebd9b6ea2ebeabe00e069.jpg",
+      "image_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d39a4ad7456ebd9b6ea2ebeabe00e069.jpg",
+      "market_price": "99.9",
+      "name": "真无线蓝牙耳机",
+      "price": "99.9",
+      "product_id": 9510
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/97a4793a6a8192b999ecdc8fa1013e33.jpg",
+      "image_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/97a4793a6a8192b999ecdc8fa1013e33.jpg",
+      "market_price": "59",
+      "name": "27W高速快充",
+      "price": "59",
+      "product_id": 9321
+    },
+    {
+      "image_url": "https://i8.mifile.cn/b2c-mimall-media/751c071fb4b3a63af404a6980814b8a8.jpg",
+      "image_url_webp": "https://i8.mifile.cn/b2c-mimall-media/751c071fb4b3a63af404a6980814b8a8.jpg",
+      "market_price": "199",
+      "name": "分体蓝牙耳机",
+      "price": "199",
+      "product_id": 9016
+    },
+    {
+      "image_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/484318ef4e069d5587b6526024fc6ebf.jpg",
+      "image_url_webp": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/484318ef4e069d5587b6526024fc6ebf.jpg",
+      "market_price": "399",
+      "name": "蓝牙耳机Air",
+      "price": "399",
+      "product_id": 9209
+    },
+    {
+      "image_url": "https://i8.mifile.cn/b2c-mimall-media/751c071fb4b3a63af404a6980814b8a8.jpg",
+      "image_url_webp": "https://i8.mifile.cn/b2c-mimall-media/751c071fb4b3a63af404a6980814b8a8.jpg",
+      "market_price": "199",
+      "name": "分体蓝牙耳机",
+      "price": "199",
+      "product_id": 9016      
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/97a4793a6a8192b999ecdc8fa1013e33.jpg",
+      "image_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/97a4793a6a8192b999ecdc8fa1013e33.jpg",
+      "market_price": "59",
+      "name": "27W高速快充",
+      "price": "59",
+      "product_id": 9321
+    }
+  ]
+}

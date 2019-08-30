@@ -1,0 +1,74 @@
+{
+  "title":"评论",
+  "list":[
+    {
+      "add_time":"2019-06-24",
+      "comment_content": "外形很漂亮。售后服务质量很好。期待使用质量。<br />为什么评论都没有见到手机实物外观图片。我拍了正反面。",
+      "comment_images":[
+        "https://i1.mifile.cn/a2/1561329124_4007443_s585_1040wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1561329125_1882358_s585_1040wh!540x5400.jpg"
+      ],
+      "reply_content": "你就是钦定的第一人！感谢您对小米的支持",
+      "reply_time": "2019-06-24",
+      "user_avatar":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/c2967dfef7e98df036c463d50041edf7.png",
+      "user_id": "103****019",
+      "user_name": "103*****19"
+    },
+    {
+      "add_time": "2019-08-24",
+      "comment_content": "清风玉露一相逢，便胜却人间无数，一如既往地大爱小米，",
+      "comment_images":[
+        "https://i1.mifile.cn/a2/1566643074_6221631_s1560_2080wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1566643072_6801373_s1560_2080wh!540x5400.jpg"
+      ],
+      "reply_content": "两情若是久长时，又岂在朝朝暮暮。小米也一如既往的爱你。感谢您对小米的支持。",
+      "reply_time": "2019-08-24",
+      "user_avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01og9e1eUY1/BGLOKOHQaPiUs6.jpg",
+      "user_id": "236****60",
+      "user_name": "未央"
+    },
+    {
+      "add_time": "2019-08-26",
+      "comment_content": "像素真是没的说，比小米8se清晰，各方面都很好，买了好几个小米红米手机了，支持小米❤",
+      "comment_images":[
+        "https://i1.mifile.cn/a2/1566813570_1383230_s1512_2016wh!540x5400.jpg?w=540&h=720"
+      ],
+      "comment_video":[
+        "https://i1.mifile.cn/a2/comment_video_1566813571_3957664.mp4"
+      ],
+      "reply_content": "时光深处，最美约定，我们相遇了，米也只为你一份微笑。感谢您对小米的支持。",
+      "reply_time": "2019-08-24",
+      "user_avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01p6VHsAzsq/At3o7lJg1H47jv.jpg",
+      "user_id": "219****303",
+      "user_name": "Zi  子木"
+    },
+    {
+      "add_time": "2019-02-26",
+      "comment_content": "这是我第二个小米手机了，红米note7质量很不错，外观漂亮，拍照很满意",
+      "comment_images":[
+        "https://i1.mifile.cn/a2/1551171801_1940463_s1000_563wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1551171802_8967511_s1000_563wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1551171803_8751601_s1000_563wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1551171804_9159867_s1000_563wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1551171805_8906600_s1000_563wh!540x5400.jpg",
+        "https://i1.mifile.cn/a2/1551171806_5237320_s1000_563wh!540x5400.jpg"
+      ],
+      "reply_content": "多年以后 ，你还是我心中的海。 一片蔚蓝 ，有阳光沙滩 ，有大鱼拍岸 ；多年以后， 依然没人能代替你的存在 ，我在惊喜你的每一个色彩， 有红色土壤，有绿野芬芳(^o^)/~感谢您对小米的支持。",
+      "reply_time": "2019-02-26",
+      "user_avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/f790b51a76afd7b41522048fa779d69d.jpg",
+      "user_id": "132****317",
+      "user_name": "李扬毅"      
+    },
+    {
+      "add_time": "2019-02-15",
+      "comment_images": [
+        "https://i1.mifile.cn/a2/1550195580_8829220_s1000_750wh!540x5400.jpg"
+      ],
+      "reply_content": "妹纸只悄悄告诉你一人哦，你登陆www.mi.com就可以找到妹纸家啦~～(￣▽￣～)(～￣▽￣)～感谢您对小米的支持。",
+      "reply_time": "2019-02-15",
+      "user_avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/9bd716bcdd5d6e4968d3adc3c5b6353b.jpg",
+      "user_id": "106****697",
+      "user_name": "106*****97"
+    }
+  ]
+}

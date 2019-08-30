@@ -1,0 +1,184 @@
+[
+  {
+    "goods_id": 1,
+    "title": "小米MIX 3",
+    "class":"brand",
+    "keywords": "小米MIX,全网通版,8GB+128GB,黑色",
+    "name": "小米MIX 3",
+    "short_describe": "DxO百分相机，四曲面陶瓷机身",
+    "description": "DxOMark拍照108分 / 磁动力滑盖全面屏 / 四曲面陶瓷机身 / 骁龙845旗舰处理器 / 包装盒内附赠10W无线充电器",
+    "coverImg":"https://i8.mifile.cn/v1/a1/5e6f96ac-352f-2522-caaa-d7e41f4dc601.webp",
+    "market_price": 3599,
+    "price": 2599,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5ae911de1ddb541a09776c6068e4a9fc.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fe6b2a24ded35baf1b1e70f8cc875c0c.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/854b99b23b6b62a3247407ab3c68a897.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f3fafcec61a6ee9e80eb608807453a0e.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/72433649ffc927293f7a8a0ccdd34575.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1f63a95df46608f9d7c955334ebd59ef.jpg"
+    ] 
+  },
+  {
+    "goods_id": 2,
+    "class":"pro_list",
+    "title": "Redmi Note 7",
+    "keywords": "Redmi,Note,4GB+64GB,暮光金,6GB+64GB,镜花水月,亮黑色,梦幻蓝",
+    "name": "Redmi Note 7",
+    "short_describe": "索尼4800万超清拍照",
+    "description": "4800万拍照千元机 / “满血版”骁龙660处理器 / 品质“小金刚”，18个月超长质保 / 4000mAh 大电量 / 6.3 水滴全面屏 / USB-C 接口，方便耐用 / 支持快充 4 协议",
+    "coverImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/905c13a84d8b70c9b9f4e3dee10a9515.jpg?thumb=1&w=344&h=280",
+    "market_price": 1199,
+    "price": 999,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56a80c21c996008656feccb4e11f415d.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f8609259c3d72ae8312b8036ccb273d9.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9895391aaed8abe791e24776d77b5d48.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d7e6a74644b371f8211a61eec62c770c.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/475ade0485c3353d40af23bde57178e9.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/82abe4a7cd51e84dd4fce2ba3d223cb3.jpg"
+    ]
+  },
+  {
+    "goods_id": 3,
+    "class":"pro_list",
+    "title": "Redmi Note 7 Pro",
+    "keywords": "Redmi,Note,Pro,6GB+128GB,镜花水月,亮黑色,梦幻蓝,暮光金",
+    "name": "Redmi Note 7 Pro",
+    "short_describe": "骁龙855， 弹出全面屏",
+    "description": "索尼4800万超清拍照 / 6GB+128GB大存储 / 骁龙675处理器 / 4000mAh大电量 / 18个月超长质保 / 6.3 水滴屏 / P2i整机防泼溅处理 / 标配18W充电器 / 德国莱茵 TÜV 认证护眼屏",
+    "coverImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/905c13a84d8b70c9b9f4e3dee10a9515.jpg?thumb=1&w=344&h=280",
+    "market_price": 1599,
+    "price": 1399,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/66dba400ba173d249535f1ebda687af5.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8356347e0e30b227bcbb8462c4a45b95.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0b930914c55abbbc40c19fa05b923f5f.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/21c9df2716326d3b6daad76b45fd18d7.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5fee30a839dea17971ca95550909e934.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f19d21a52534437f19ba498957a385d8.jpg"
+    ]
+  },
+  {
+    "goods_id": 4,
+    "class":"pro_list",
+    "title": "Redmi K20 Pro ",
+    "keywords": "Redmi,K20,Pro,8GB+128GB,火焰红,碳纤黑,6GB+128GB,冰川蓝,夏之蜜语,8GB+256GB",
+    "name": "Redmi K20 Pro",
+    "short_describe": "3200万自拍，4800万三摄",
+    "description": "<font color='#ff4a00'>「6GB+128GB/8+128GB直降300元，享花呗6期免息」</font>骁龙855旗舰处理器 / 索尼4800万超广角三摄 / 前置2000万升降式相机 / 6.39 AMOLED全面屏 / 4000mAh超长续航 / 8层石墨立体散热 / 第七代屏下指纹解锁 / 多功能NFC",
+    "coverImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc1255fd3e70b6cdd6409627ca59d3f7.jpg?thumb=1&w=344&h=280",
+    "market_price": 2799,
+    "price": 2499,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/74ae1544424a2c8cc84fe959e64273a2.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c42c895b99f7572cbd873f3f8ed3b19.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b2341c40e067af430dcc3072c1fd9b73.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/305fd8aa14d7a22e07ca9c31a32be1b6.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/868be8d24ae4197b23fcf82cb58d354b.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12367e4d34470567f1d4dd02004e3428.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5dce71357b30337d98a96bc2bfca0d7b.jpg"
+    ]
+  },
+  {
+    "goods_id": 5,
+    "class":"pro_list",
+    "title": "小米CC9e",
+    "keywords": "小米CC9e,4GB+128GB,白色恋人,4GB+64GB,(白色),深蓝星球,(蓝色),6GB+64GB,暗夜王子,(深空灰),6GB+128GB,小米CC,全网通版",
+    "name": "小米CC9e",
+    "short_describe": "4000mAh超长续航",
+    "description": "<font color='#ff4a00'>「4GB+64GB领券减100元，到手价1199，再赠贴膜+保护壳」</font>前置3200万自拍 / 索尼4800万超广角三摄 / 4030mAh大电量 / 3D全曲面玻璃机身，浪漫满分的全新配色 / 6.088英寸三星 AMOLED水滴屏 /第七代屏幕指纹 /  首发骁龙665处理器 / 全新Mimoji萌拍 / 红外遥控功能",
+    "coverImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc1255fd3e70b6cdd6409627ca59d3f7.jpg?thumb=1&w=344&h=280",
+    "market_price": 1499,
+    "price": 1399,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3315b765ff04a340cb7006442deaee0a.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d333ce64cd8596317682ccf3f696905.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4bc41965e7227da1050f142ebb0be01a.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/753ec2a34e36677d682279e0411838a6.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cce59cb9a7d19f98f087414af1b741dc.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/508b18122d3516ba882186add174316b.jpg"
+    ]
+  },
+  {
+    "goods_id": 6,
+    "class":"pro_list",
+    "title": "Redmi Note 7",
+    "keywords": "Redmi,Note,4GB+64GB,暮光金,6GB+64GB,镜花水月,亮黑色,梦幻蓝",
+    "name": "Redmi Note 7",
+    "short_describe": "骁龙8核处理器",
+    "description": "4800万拍照千元机 / “满血版”骁龙660处理器 / 品质“小金刚”，18个月超长质保 / 4000mAh 大电量 / 6.3 水滴全面屏 / USB-C 接口，方便耐用 / 支持快充 4 协议",
+    "coverImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5e8faabd72ee160e245447357f1708e.jpg?thumb=1&w=344&h=280",
+    "market_price": 1199,
+    "price": 999,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56a80c21c996008656feccb4e11f415d.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f8609259c3d72ae8312b8036ccb273d9.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9895391aaed8abe791e24776d77b5d48.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d7e6a74644b371f8211a61eec62c770c.jpg",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/475ade0485c3353d40af23bde57178e9.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/82abe4a7cd51e84dd4fce2ba3d223cb3.jpg"
+    ]
+  },
+  {
+    "goods_id": 7,
+    "class":"pro_list",
+    "title": "Redmi Note 7 Pro",
+    "keywords": "Redmi,Note,Pro,6GB+128GB,镜花水月,亮黑色,梦幻蓝,暮光金",
+    "name": "Redmi Note 7 Pro",
+    "short_describe": "全息幻彩机身，骁龙855",
+    "description": "索尼4800万超清拍照 / 6GB+128GB大存储 / 骁龙675处理器 / 4000mAh大电量 / 18个月超长质保 / 6.3 水滴屏 / P2i整机防泼溅处理 / 标配18W充电器 / 德国莱茵 TÜV 认证护眼屏",
+    "coverImg":"https://i8.mifile.cn/v1/a1/22f203ab-44f4-6b89-06b4-e01e6f00c7f8.webp",
+    "market_price": 1599,
+    "price": 1399,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/66dba400ba173d249535f1ebda687af5.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8356347e0e30b227bcbb8462c4a45b95.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0b930914c55abbbc40c19fa05b923f5f.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/21c9df2716326d3b6daad76b45fd18d7.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5fee30a839dea17971ca95550909e934.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f19d21a52534437f19ba498957a385d8.jpg"
+    ]
+  },
+  {
+    "goods_id": 8,
+    "class":"pro_list",
+    "title": "Redmi K20 Pro ",
+    "keywords": "Redmi,K20,Pro,8GB+128GB,火焰红,碳纤黑,6GB+128GB,冰川蓝,夏之蜜语,8GB+256GB",
+    "name": "Redmi K20 Pro",
+    "short_describe": "3200万自拍，4800万三摄",
+    "description": "<font color='#ff4a00'>「6GB+128GB/8+128GB直降300元，享花呗6期免息」</font>骁龙855旗舰处理器 / 索尼4800万超广角三摄 / 前置2000万升降式相机 / 6.39 AMOLED全面屏 / 4000mAh超长续航 / 8层石墨立体散热 / 第七代屏下指纹解锁 / 多功能NFC",
+    "coverImg":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/baf1995a35e823c99e7c8ffd287d64ee.jpg?thumb=1&w=344&h=280",
+    "market_price": 2799,
+    "price": 2499,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/74ae1544424a2c8cc84fe959e64273a2.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c42c895b99f7572cbd873f3f8ed3b19.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b2341c40e067af430dcc3072c1fd9b73.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/305fd8aa14d7a22e07ca9c31a32be1b6.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/868be8d24ae4197b23fcf82cb58d354b.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12367e4d34470567f1d4dd02004e3428.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5dce71357b30337d98a96bc2bfca0d7b.jpg"
+    ]
+  },
+  {
+    "goods_id": 9,
+    "class":"pro_list",
+    "title": "小米CC9e",
+    "keywords": "小米CC9e,4GB+128GB,白色恋人,4GB+64GB,(白色),深蓝星球,(蓝色),6GB+64GB,暗夜王子,(深空灰),6GB+128GB,小米CC,全网通版",
+    "name": "小米CC9e",
+    "short_describe": "四曲面陶瓷机身，骁龙845",
+    "description": "<font color='#ff4a00'>「4GB+64GB领券减100元，到手价1199，再赠贴膜+保护壳」</font>前置3200万自拍 / 索尼4800万超广角三摄 / 4030mAh大电量 / 3D全曲面玻璃机身，浪漫满分的全新配色 / 6.088英寸三星 AMOLED水滴屏 /第七代屏幕指纹 /  首发骁龙665处理器 / 全新Mimoji萌拍 / 红外遥控功能",
+    "coverImg":"https://i8.mifile.cn/v1/a1/734e5838-b80a-a49f-ea12-5ef05eb513a5.webp",
+    "market_price": 1499,
+    "price": 1399,
+    "detail_swiper":[
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3315b765ff04a340cb7006442deaee0a.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d333ce64cd8596317682ccf3f696905.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4bc41965e7227da1050f142ebb0be01a.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/753ec2a34e36677d682279e0411838a6.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cce59cb9a7d19f98f087414af1b741dc.jpg",
+        "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/508b18122d3516ba882186add174316b.jpg"
+    ]
+  }
+]

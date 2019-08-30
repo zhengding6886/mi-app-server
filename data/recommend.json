@@ -1,0 +1,102 @@
+{
+  "title":"为你推荐",
+  "recommend_list":[
+    {
+      "commodity_id": "7761",
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/35a85fe8fcb34269d93970b5a735b697.jpg",
+      "market_price": "2999",
+      "name": "小米MIX 2S",
+      "price": "1799",
+      "product_desc": "四曲面陶瓷机身，骁龙845",
+      "product_id": "7761"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7906b53fe38d4d6427f210e7f18425d0.jpg",
+      "market_price": "2799",
+      "name": "Redmi K20 Pro 8GB+128GB",
+      "price": "2499",
+      "product_desc": "骁龙855， 弹出全面屏",
+      "product_id": "9786"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ad33c1e8cc1ceb6197318118a3d2f16f.jpg",
+      "market_price": "1599",
+      "name": "Redmi Note 7 Pro",
+      "price": "1399",
+      "product_desc": "索尼4800万超清拍照 ",
+      "product_id": "9455"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ab8a007a41c8997d2f4074b4ebb92dbb.jpg",
+      "market_price": "3599",
+      "name": "小米9 王源限量版",
+      "price": "3599",
+      "product_desc": "骁龙855，索尼4800万三摄",
+      "product_id": "9594"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/837d1172f4fb590fd1939bacd0faede2.jpg",
+      "market_price": "1999",
+      "name": "小米Max 3 6GB+128GB",
+      "price": "1599",
+      "product_desc": "超大屏，超大电量",
+      "product_id": "8611"
+    },
+    {
+      "image_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/178f56b4973bac912d4d5a0190e9ac83.jpg",
+      "market_price": "1199",
+      "name": "Redmi Note 7",
+      "price": "999",
+      "product_desc": "4800万拍照千元机",
+      "product_id": "9205"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e96b30e69ce22b5ebb5f19e501453a3b.jpg",
+      "market_price": "999",
+      "name": "Redmi 7 ",
+      "price": "899",
+      "product_desc": "4000mAh超长续航",
+      "product_id": "9454"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/35a85fe8fcb34269d93970b5a735b697.jpg",
+      "market_price": "3599",
+      "name": "小米MIX 2S 移动4G+版",
+      "price": "2499",
+      "product_desc": "骁龙845旗舰处理器，AI双摄",
+      "product_id": "7882"
+    },
+    {
+      "image_url": "https://i8.mifile.cn/b2c-mimall-media/7bf02cdd5093143fb203bad95b85af4a.jpg",
+      "market_price": "19",
+      "name": "MIX 3 贴膜",
+      "price": "5.9",
+      "product_desc": "精彩清晰可见",
+      "product_id": "9008"
+    },
+    {
+      "image_url": "https://i8.mifile.cn/b2c-mimall-media/ddc90e3306b628da32b7addc8a2ad62c.jpg",
+      "market_price": "49",
+      "name": "MIX 3 保护壳",
+      "price": "12.9",
+      "product_desc": "时尚简约，材质考究",
+      "product_id": "9007"
+    },
+    {
+      "image_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2e996a3698e895f054a5f97a4dcfd28b.jpg",
+      "market_price": "69",
+      "name": "小米MIX 3 獬豸神兽保护壳",
+      "price": "32.9",
+      "product_desc": "因为独特而备受瞩目",
+      "product_id": "9133"
+    },
+    {
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d39a4ad7456ebd9b6ea2ebeabe00e069.jpg",
+      "market_price": "99.9",
+      "name": "真无线蓝牙耳机",
+      "price": "99.9",
+      "product_desc": "自动秒连，拿起就能用",
+      "product_id": "9510"      
+    }
+  ]
+}
