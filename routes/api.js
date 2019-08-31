@@ -18,6 +18,65 @@ router.get('/detail',function(req,res,next) {
     }
   })
 })
+router.get('/relate',function(req,res,next){
+    readDate('./data/related_recommend.json',function(obj){
+        res.send(obj);
+    })
+})
+router.get('/comments',function(req,res,next){
+    readDate('./data/comments.json',function(obj){
+        res.send(obj);
+    })
+})
+router.get('/recommend',function(req,res,next){
+    readDate('./data/recommend.json',function(obj){
+        res.send(obj);
+    })
+})
+router.get('/addcart',function(req,res,next){
+    let pid = req.query.pid;
+    let product = null;
+    readTelePhone(function(arr){
+        for(item of arr){
+            if(item.goods_id == pid){
+                product = item;
+                break;
+            }
+        }
+        addCart(product,function(result){
+            res.send(result);
+        })
+    })
+
+})
+router.get('/cartNum',function(req,res,next){
+    let obj = {};
+    readCart(function(arr){
+        obj.length = arr.length;
+        obj.data = arr;
+        res.send(obj);
+    })
+})
+
+router.get('/deleteCart',function(req,res,next){
+    let index = req.query.index;
+    let result = {};
+    readCart(function(arr){
+        arr.splice(index,1);
+        let length = arr.length;
+        fs.writeFile('./data/cart.json',JSON.stringify(arr),err=>{
+            if(!err){
+                result.code = 200;
+                result.msg = '加入购物车成功';
+                result.length = length;
+            }else{
+                result.code = 500,
+                result.msg = '加入购物车失败'
+            }
+            res.send(result);
+        })
+    })
+})
 
 router.get('/list', function (req, res, next) {
   let obj = 
@@ -456,6 +515,53 @@ function readTelePhone(fn){
     }
     fn(arr);
   })
+}
+
+function addCart(data,fn){
+    let result = {}
+    readCart(function(arr){
+        arr.push(data);
+        let length = arr.length;
+        fs.writeFile('./data/cart.json',JSON.stringify(arr),err=>{
+            if(!err){
+                result.code = 200;
+                result.msg = '加入购物车成功';
+                result.length = length;
+            }else{
+                result.code = 500,
+                result.msg = '加入购物车失败'
+            }
+            fn(result)
+        })
+    })
+}
+function readCart(fn){
+    let arr = [];
+    fs.readFile('./data/cart.json','utf-8',(err,data)=>{
+        if(!err){
+            arr = JSON.parse(data);
+        }else{
+            console.log('数据读取失败',err);
+        }
+        fn(arr);
+    })
+}
+
+/** 
+ * 读取数据的方法
+ * path: 文件路径
+ * fn 回调函数
+ *  */
+function readDate(path,fn){
+    let obj = null;
+    fs.readFile(path,'utf-8',(err,data)=>{
+        if(!err){
+            obj = JSON.parse(data);
+        }else{
+            console.log('数据读取失败',err);
+        }
+        fn(obj);
+    })
 }
 
 module.exports = router;
