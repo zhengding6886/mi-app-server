@@ -431,7 +431,15 @@ router.get('/parameters',function(req,res,next){
     res.send(obj);
   })
 })
+router.post('/user/login', function(req, res) {
+    console.log(req.body)
+    let obj={
+        uName:'mi15539001368',
+        uHeaderSrc:'https://avatars3.githubusercontent.com/u/52197755?s=460&v=4'
+    }
+    res.send(obj);
 
+});
 /** 读取手机参数的方法 */
 function readParameter(fn){
   let obj = {};
