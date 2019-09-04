@@ -18,6 +18,7 @@ router.get('/detail',function(req,res,next) {
     }
   })
 })
+
 router.get('/relate',function(req,res,next){
     readDate('./data/related_recommend.json',function(obj){
         res.send(obj);
